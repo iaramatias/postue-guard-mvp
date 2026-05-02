@@ -24,7 +24,7 @@ Este projeto utiliza visão computacional para auxiliar na conscientização pos
    pip install -r requirements.txt
 4. Execute a aplicação:
    ```bash
-streamlit run posture_guard_mvp.py
+   streamlit run posture_guard_mvp.py
 
 👩‍💻 Sobre a Autora
 Iara Matias
